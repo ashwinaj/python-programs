@@ -4,7 +4,7 @@ def intersection(arr1, arr2):
     s = []
     for i in arr1:
         if i in arr2:
-            s.append(i)
+            s.append(i) 
 
     print "Intersection is: ", s
     
